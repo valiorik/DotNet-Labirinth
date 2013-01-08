@@ -8,4 +8,4 @@ It was written during uni summer holidays and was a first application I was prou
 
 Valerij Kozlov
 valiorik@gmail.com
-2009
+2006
